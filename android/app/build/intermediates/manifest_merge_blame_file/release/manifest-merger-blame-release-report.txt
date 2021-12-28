@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.surendra.quotes4life"
+4    android:versionCode="4194308"
+5    android:versionName="4.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+12-->[:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required to access Google Play Licensing -->
+13-->[:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+13-->[:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+14    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+14-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+14-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+15    <!--
+16         Required to keep CPU alive while downloading files
+17        (NOT to keep screen awake)
+18    -->
+19    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required to read and write the expansion files on shared storage -->
+19-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+19-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:22-65
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+20-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:22-78
+21
+22    <application
+22-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:6:5-25:19
+23        android:name="com.surendra.quotes4life.MainApplication"
+23-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:7:7-38
+24        android:allowBackup="false"
+24-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:11:7-34
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.3.2] /Users/surendra/.gradle/caches/transforms-3/7b56dd055d748c64570102a651932150/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:9:7-41
+27        android:label="@string/app_name"
+27-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:8:7-39
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:10:7-52
+29        android:theme="@style/AppTheme" >
+29-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:12:7-38
+30        <activity
+30-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:13:7-23:18
+31            android:name="com.surendra.quotes4life.MainActivity"
+31-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:14:9-37
+32            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+32-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:16:9-86
+33            android:label="@string/app_name"
+33-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:15:9-41
+34            android:launchMode="singleTask"
+34-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:17:9-40
+35            android:windowSoftInputMode="adjustResize" >
+35-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:18:9-51
+36            <intent-filter>
+36-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:19:9-22:25
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:20:13-65
+37-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:20:21-62
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:21:13-73
+39-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:21:23-70
+40            </intent-filter>
+41        </activity>
+42        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+42-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:24:7-84
+42-->/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:24:17-81
+43
+44        <provider
+44-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+45            android:name="com.RNFetchBlob.Utils.FileProvider"
+45-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+46            android:authorities="com.surendra.quotes4life.provider"
+46-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+47            android:exported="false"
+47-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+48            android:grantUriPermissions="true" >
+48-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+49            <meta-data
+49-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-43:58
+50                android:name="android.support.FILE_PROVIDER_PATHS"
+50-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-67
+51                android:resource="@xml/provider_paths" />
+51-->[:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:43:17-55
+52        </provider>
+53    </application>
+54
+55</manifest>

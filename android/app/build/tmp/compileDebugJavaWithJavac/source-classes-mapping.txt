@@ -1,0 +1,14 @@
+com/surendra/quotes4life/BuildConfig.java
+ com.surendra.quotes4life.BuildConfig
+com/quotes4life/MainActivity.java
+ com.surendra.quotes4life.MainActivity
+com/quotes4life/MainApplication.java
+ com.surendra.quotes4life.MainApplication
+ com.surendra.quotes4life.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/quotes4life/ReactNativeFlipper.java
+ com.quotes4life.ReactNativeFlipper
+ com.quotes4life.ReactNativeFlipper$1
+ com.quotes4life.ReactNativeFlipper$2
+ com.quotes4life.ReactNativeFlipper$2$1

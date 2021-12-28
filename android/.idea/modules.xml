@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Quotes4Life.iml" filepath="$PROJECT_DIR$/.idea/modules/Quotes4Life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Quotes4Life.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Quotes4Life.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-136313438/Quotes4Life.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-136313438/Quotes4Life.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-578016186/Quotes4Life.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/-578016186/Quotes4Life.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1307570549/Quotes4Life.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1307570549/Quotes4Life.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1817782393/Quotes4Life.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1817782393/Quotes4Life.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1198751586/Quotes4Life.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1198751586/Quotes4Life.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/343174710/Quotes4Life.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/343174710/Quotes4Life.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-403447990/Quotes4Life.rn-fetch-blob.iml" filepath="$PROJECT_DIR$/.idea/modules/-403447990/Quotes4Life.rn-fetch-blob.iml" />
+    </modules>
+  </component>
+</project>

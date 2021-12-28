@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-mdpi_assets_quotes4life.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-mdpi/assets_quotes4life.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_success.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_success.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnativedropdownalert_assets_error.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativedropdownalert_assets_error.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_cancel.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_cancel.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_info.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_info.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnativedropdownalert_assets_warn.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativedropdownalert_assets_warn.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    }
+]

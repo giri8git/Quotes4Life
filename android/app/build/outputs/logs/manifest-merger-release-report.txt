@@ -1,0 +1,275 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-community_masked-view] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-gesture-handler] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-47:12
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/surendra/.gradle/caches/transforms-3/887d854e5d9e8bae6f1632fe904f1875/transformed/jetified-react-native-0.64.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/surendra/.gradle/caches/transforms-3/86a50439a1f925d51120fd9ae6d4fcfb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/surendra/.gradle/caches/transforms-3/4540077c7f41e5f084047da1833fd78d/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-reanimated/android/build/.transforms/1ae69c4609f1a422f341855ca664b850/transformed/jetified-react-native-reanimated-64/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/surendra/.gradle/caches/transforms-3/167b23ea4ed3a33a58e367296400548a/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/surendra/.gradle/caches/transforms-3/8bad765fb0c44392f5cbc11d5eec1b3c/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/surendra/.gradle/caches/transforms-3/c72ff7e9f84f3678b90890c45f56c9d0/transformed/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/surendra/.gradle/caches/transforms-3/ab6996fd5ed0575fd5e518194b5a293e/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/surendra/.gradle/caches/transforms-3/10dabb455966f19f9a27398be9c653e7/transformed/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/surendra/.gradle/caches/transforms-3/00460be1c45b7baedf1707ed3c880f70/transformed/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/surendra/.gradle/caches/transforms-3/a8c69ca8049b74b4b7b3bf83f7ad9e65/transformed/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/surendra/.gradle/caches/transforms-3/3d6333a8dfea5951d59e667860e052b0/transformed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/surendra/.gradle/caches/transforms-3/7ff98e551e83871b12b1cb841f25e4c8/transformed/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/surendra/.gradle/caches/transforms-3/32516af98d96d969decdbf935676f689/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/surendra/.gradle/caches/transforms-3/bc7b4694fcf64bb50365a9b9f1e36a4e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/surendra/.gradle/caches/transforms-3/ffd464025b36f7443ba8eb7cb5ad4c32/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/surendra/.gradle/caches/transforms-3/cc8b96b3f92b6a921e2162416c7afdd4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/surendra/.gradle/caches/transforms-3/69e02958334730c57be0cb4aa81d1b1a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/surendra/.gradle/caches/transforms-3/1e634f4f23e306da158f75484ac83a32/transformed/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/surendra/.gradle/caches/transforms-3/e5b9692c7a3e3823ef6461620290e6dd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/surendra/.gradle/caches/transforms-3/71dfb201344929cad32f24d52a068833/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/surendra/.gradle/caches/transforms-3/533d9b55352ff059981fda41fd3ecb55/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/surendra/.gradle/caches/transforms-3/bb4509b0952200a1ded5c87d9e6d962a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/surendra/.gradle/caches/transforms-3/683718234a3a46437f41e6042c58581e/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/surendra/.gradle/caches/transforms-3/1326b36dc5d3fa6ddb91a38cdd0fd52e/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/surendra/.gradle/caches/transforms-3/2daf6df9cc4679e4c12b80e5f5df9704/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/surendra/.gradle/caches/transforms-3/663f8e11f984558a991e4d2f56d1af59/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/surendra/.gradle/caches/transforms-3/0bcb202f65e7329f99c644ae2c126ed5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/surendra/.gradle/caches/transforms-3/7b56dd055d748c64570102a651932150/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/surendra/.gradle/caches/transforms-3/91cb90d16ff2b55dcf2708655b2f44be/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/surendra/.gradle/caches/transforms-3/3f3068d1cf12ad9227a9929e2c3ebd73/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/surendra/.gradle/caches/transforms-3/6961ee7d2a883bfa21ace05eb3e831e1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/surendra/.gradle/caches/transforms-3/ac3bc597ef5df48711f9f20fb5042a42/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/surendra/.gradle/caches/transforms-3/1688fa6ee8daaa8630f410617cfe1d47/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/surendra/.gradle/caches/transforms-3/874f0c1afb9a8471adc76eb96f46ff95/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/surendra/.gradle/caches/transforms-3/29dc6e8cae71a1f778c5a61696f652c4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/surendra/.gradle/caches/transforms-3/32fc4a01638e765086f4d837ca334a10/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/surendra/.gradle/caches/transforms-3/829dfc9c73b84e7b14d314e108407861/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/surendra/.gradle/caches/transforms-3/774ee57ccf13a9a46aba03e36f06e20e/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/surendra/.gradle/caches/transforms-3/da016440111aea411b9736d9543974cc/transformed/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:2:3-37
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-45:19
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/surendra/.gradle/caches/transforms-3/887d854e5d9e8bae6f1632fe904f1875/transformed/jetified-react-native-0.64.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/surendra/.gradle/caches/transforms-3/887d854e5d9e8bae6f1632fe904f1875/transformed/jetified-react-native-0.64.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/surendra/.gradle/caches/transforms-3/167b23ea4ed3a33a58e367296400548a/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/surendra/.gradle/caches/transforms-3/167b23ea4ed3a33a58e367296400548a/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/surendra/.gradle/caches/transforms-3/32516af98d96d969decdbf935676f689/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/surendra/.gradle/caches/transforms-3/32516af98d96d969decdbf935676f689/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.3.2] /Users/surendra/.gradle/caches/transforms-3/7b56dd055d748c64570102a651932150/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/surendra/.gradle/caches/transforms-3/7b56dd055d748c64570102a651932150/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/surendra/.gradle/caches/transforms-3/91cb90d16ff2b55dcf2708655b2f44be/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/surendra/.gradle/caches/transforms-3/91cb90d16ff2b55dcf2708655b2f44be/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/surendra/.gradle/caches/transforms-3/7b56dd055d748c64570102a651932150/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.surendra.quotes4life.MainActivity
+ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_masked-view] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/surendra/.gradle/caches/transforms-3/887d854e5d9e8bae6f1632fe904f1875/transformed/jetified-react-native-0.64.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.0] /Users/surendra/.gradle/caches/transforms-3/887d854e5d9e8bae6f1632fe904f1875/transformed/jetified-react-native-0.64.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/surendra/.gradle/caches/transforms-3/86a50439a1f925d51120fd9ae6d4fcfb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/surendra/.gradle/caches/transforms-3/86a50439a1f925d51120fd9ae6d4fcfb/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/surendra/.gradle/caches/transforms-3/4540077c7f41e5f084047da1833fd78d/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/surendra/.gradle/caches/transforms-3/4540077c7f41e5f084047da1833fd78d/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-reanimated/android/build/.transforms/1ae69c4609f1a422f341855ca664b850/transformed/jetified-react-native-reanimated-64/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/react-native-reanimated/android/build/.transforms/1ae69c4609f1a422f341855ca664b850/transformed/jetified-react-native-reanimated-64/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/surendra/.gradle/caches/transforms-3/167b23ea4ed3a33a58e367296400548a/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/surendra/.gradle/caches/transforms-3/167b23ea4ed3a33a58e367296400548a/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/surendra/.gradle/caches/transforms-3/8bad765fb0c44392f5cbc11d5eec1b3c/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/surendra/.gradle/caches/transforms-3/8bad765fb0c44392f5cbc11d5eec1b3c/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/surendra/.gradle/caches/transforms-3/c72ff7e9f84f3678b90890c45f56c9d0/transformed/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/surendra/.gradle/caches/transforms-3/c72ff7e9f84f3678b90890c45f56c9d0/transformed/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/surendra/.gradle/caches/transforms-3/ab6996fd5ed0575fd5e518194b5a293e/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/surendra/.gradle/caches/transforms-3/ab6996fd5ed0575fd5e518194b5a293e/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/surendra/.gradle/caches/transforms-3/10dabb455966f19f9a27398be9c653e7/transformed/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/surendra/.gradle/caches/transforms-3/10dabb455966f19f9a27398be9c653e7/transformed/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/surendra/.gradle/caches/transforms-3/00460be1c45b7baedf1707ed3c880f70/transformed/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/surendra/.gradle/caches/transforms-3/00460be1c45b7baedf1707ed3c880f70/transformed/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/surendra/.gradle/caches/transforms-3/a8c69ca8049b74b4b7b3bf83f7ad9e65/transformed/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/surendra/.gradle/caches/transforms-3/a8c69ca8049b74b4b7b3bf83f7ad9e65/transformed/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/surendra/.gradle/caches/transforms-3/3d6333a8dfea5951d59e667860e052b0/transformed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/surendra/.gradle/caches/transforms-3/3d6333a8dfea5951d59e667860e052b0/transformed/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/surendra/.gradle/caches/transforms-3/7ff98e551e83871b12b1cb841f25e4c8/transformed/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/surendra/.gradle/caches/transforms-3/7ff98e551e83871b12b1cb841f25e4c8/transformed/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/surendra/.gradle/caches/transforms-3/32516af98d96d969decdbf935676f689/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/surendra/.gradle/caches/transforms-3/32516af98d96d969decdbf935676f689/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/surendra/.gradle/caches/transforms-3/bc7b4694fcf64bb50365a9b9f1e36a4e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/surendra/.gradle/caches/transforms-3/bc7b4694fcf64bb50365a9b9f1e36a4e/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/surendra/.gradle/caches/transforms-3/ffd464025b36f7443ba8eb7cb5ad4c32/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/surendra/.gradle/caches/transforms-3/ffd464025b36f7443ba8eb7cb5ad4c32/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/surendra/.gradle/caches/transforms-3/cc8b96b3f92b6a921e2162416c7afdd4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/surendra/.gradle/caches/transforms-3/cc8b96b3f92b6a921e2162416c7afdd4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/surendra/.gradle/caches/transforms-3/69e02958334730c57be0cb4aa81d1b1a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/surendra/.gradle/caches/transforms-3/69e02958334730c57be0cb4aa81d1b1a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/surendra/.gradle/caches/transforms-3/1e634f4f23e306da158f75484ac83a32/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/surendra/.gradle/caches/transforms-3/1e634f4f23e306da158f75484ac83a32/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/surendra/.gradle/caches/transforms-3/e5b9692c7a3e3823ef6461620290e6dd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/surendra/.gradle/caches/transforms-3/e5b9692c7a3e3823ef6461620290e6dd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/surendra/.gradle/caches/transforms-3/71dfb201344929cad32f24d52a068833/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/surendra/.gradle/caches/transforms-3/71dfb201344929cad32f24d52a068833/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/surendra/.gradle/caches/transforms-3/533d9b55352ff059981fda41fd3ecb55/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/surendra/.gradle/caches/transforms-3/533d9b55352ff059981fda41fd3ecb55/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/surendra/.gradle/caches/transforms-3/bb4509b0952200a1ded5c87d9e6d962a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/surendra/.gradle/caches/transforms-3/bb4509b0952200a1ded5c87d9e6d962a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/surendra/.gradle/caches/transforms-3/683718234a3a46437f41e6042c58581e/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/surendra/.gradle/caches/transforms-3/683718234a3a46437f41e6042c58581e/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/surendra/.gradle/caches/transforms-3/1326b36dc5d3fa6ddb91a38cdd0fd52e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/surendra/.gradle/caches/transforms-3/1326b36dc5d3fa6ddb91a38cdd0fd52e/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/surendra/.gradle/caches/transforms-3/2daf6df9cc4679e4c12b80e5f5df9704/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/surendra/.gradle/caches/transforms-3/2daf6df9cc4679e4c12b80e5f5df9704/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/surendra/.gradle/caches/transforms-3/663f8e11f984558a991e4d2f56d1af59/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/surendra/.gradle/caches/transforms-3/663f8e11f984558a991e4d2f56d1af59/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/surendra/.gradle/caches/transforms-3/0bcb202f65e7329f99c644ae2c126ed5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/surendra/.gradle/caches/transforms-3/0bcb202f65e7329f99c644ae2c126ed5/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/surendra/.gradle/caches/transforms-3/7b56dd055d748c64570102a651932150/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/surendra/.gradle/caches/transforms-3/7b56dd055d748c64570102a651932150/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/surendra/.gradle/caches/transforms-3/91cb90d16ff2b55dcf2708655b2f44be/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/surendra/.gradle/caches/transforms-3/91cb90d16ff2b55dcf2708655b2f44be/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/surendra/.gradle/caches/transforms-3/3f3068d1cf12ad9227a9929e2c3ebd73/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/surendra/.gradle/caches/transforms-3/3f3068d1cf12ad9227a9929e2c3ebd73/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/surendra/.gradle/caches/transforms-3/6961ee7d2a883bfa21ace05eb3e831e1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/surendra/.gradle/caches/transforms-3/6961ee7d2a883bfa21ace05eb3e831e1/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/surendra/.gradle/caches/transforms-3/ac3bc597ef5df48711f9f20fb5042a42/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/surendra/.gradle/caches/transforms-3/ac3bc597ef5df48711f9f20fb5042a42/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/surendra/.gradle/caches/transforms-3/1688fa6ee8daaa8630f410617cfe1d47/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/surendra/.gradle/caches/transforms-3/1688fa6ee8daaa8630f410617cfe1d47/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/surendra/.gradle/caches/transforms-3/874f0c1afb9a8471adc76eb96f46ff95/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/surendra/.gradle/caches/transforms-3/874f0c1afb9a8471adc76eb96f46ff95/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/surendra/.gradle/caches/transforms-3/29dc6e8cae71a1f778c5a61696f652c4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/surendra/.gradle/caches/transforms-3/29dc6e8cae71a1f778c5a61696f652c4/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/surendra/.gradle/caches/transforms-3/32fc4a01638e765086f4d837ca334a10/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/surendra/.gradle/caches/transforms-3/32fc4a01638e765086f4d837ca334a10/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/surendra/.gradle/caches/transforms-3/829dfc9c73b84e7b14d314e108407861/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/surendra/.gradle/caches/transforms-3/829dfc9c73b84e7b14d314e108407861/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/surendra/.gradle/caches/transforms-3/774ee57ccf13a9a46aba03e36f06e20e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/surendra/.gradle/caches/transforms-3/774ee57ccf13a9a46aba03e36f06e20e/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/surendra/.gradle/caches/transforms-3/da016440111aea411b9736d9543974cc/transformed/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/surendra/.gradle/caches/transforms-3/da016440111aea411b9736d9543974cc/transformed/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+MERGED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:33:22-78
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-43:58
+	android:resource
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:43:17-55
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/surendra/Desktop/tutorial/ReactNative/Quotes4Life/node_modules/rn-fetch-blob/android/build/intermediates/library_manifest/release/AndroidManifest.xml:42:17-67
