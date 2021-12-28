@@ -7,3 +7,6 @@ Quotes App with manual API with php
   <img src="https://play-lh.googleusercontent.com/aYHNei6u0C3VBy96i-cwpDd4ex5rCQO9GVt_f5LoI7-0O2_5aWficA_DinjHORdGnA=w1440-h821-rw" width="350" title="hover text">
 </p>
 
+You can download from here : https://play.google.com/store/apps/details?id=com.surendra.quotes4life
+
+You can contact me here : https://surendragiri.com/
